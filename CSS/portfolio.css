@@ -1,0 +1,146 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.paginanaam {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+blockquote {
+  background: rgb(216, 216, 216);
+  border-left: 10px solid black;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  font-style: italic;
+  font-size: 20px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+blockquote:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+  
+blockquote p {
+  display: inline;
+}
+
+.aboutme, img {
+  margin: auto;
+  height: 100px;
+  width: 100px;
+}
+
+.opleidingbutton {
+  text-align: center;
+}
+
+.active {
+  color: white;
+}
+
+.softwaredeveloper {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.softwarehead {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.softwaretext {
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.organiseren {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.vakken {
+  padding: 15px;
+  display: inline-block;
+  border: black;
+  border-style: solid;
+  margin-right: 35px;
+  margin-bottom: 20px;
+  height: 180px;
+  width: 300px;
+  border-radius: 15px;
+  background-color: black;
+}
+
+.welkom {
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 50px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.welkomtext {
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+.programmeertalen {
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+#list {
+  font-size: 20px;
+  font-family: 'Chakra Petch', sans-serif;
+  text-align: center;
+}
+
+.welkombox {
+  display: inline-block;
+  border: black;
+  border-style: solid;
+  height: 255px;
+  width: 300px;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+}
+
+#lucas {
+  height: 460px;
+  width: 370px;
+  border-radius: 10px;
+  box-shadow: 20px 20px;
+  float: right;
+}
+
+.centerbutton {
+  text-align: center;
+}
+
+.welkombuttons {
+  font-family: 'Chakra Petch', sans-serif;
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.showcase {
+  text-align: center;
+  margin-top: 100px;
+}
