@@ -6,7 +6,7 @@
 <img src="Images/aboutme.png" alt="About Me">
 </div>
 <blockquote>
-Ik ben Lucas de Ruijter, ik ben 18 jaar oud en ik ben geboren in goes. Mijn karakter is te beschrijven als leergierig, 
+Ik ben Lucas de Ruijter, ik ben 18 jaar oud en ik ben geboren in Goes. Mijn karakter is te beschrijven als leergierig, 
 nieuwsgierig en nauwkeurig. Mijn sterke kanten zijn dat ik kan doorzetten en goed kan presteren als het nodig is. 
 Waar ik veel energie van krijg is het oplossen van problemen tijdens het programmeren en wanneer de applicatie volledig werkt. 
 Ik doe de opleiding software developer met de reden dat ik het leuk en interessant vind. Ik ben gepassioneerd over het 
