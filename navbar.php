@@ -1,43 +1,36 @@
-<nav class="navbar navbar-expand-md navbar-dark bg-dark">
-    <div class="d-flex w-50 order-0">
-        <a class="navbar-brand mr-1" href="#">E-Portfolio</a>
-        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-    <div class="navbar-collapse collapse justify-content-center order-2" id="collapsingNavbar">
+<nav class="navbar">
     <ul class="navbar-nav">
+    <li class="logo">
+      <a class="nav-logo" 
+      href="#"><span class="link-text">E-Portfolio</span></a>
+    </li>
     <li class="nav-item">
       <a class="nav-link <?php if($paginanaam=="home") {echo"active";} ?>" 
-      href="home">Home</a>
+      href="home"><span class="link-text">Home</span></a>
     </li>
     <li class="nav-item">
       <a class="nav-link <?php if($paginanaam=="overmij") {echo"active";} ?>" 
-      href="overmij">Overmij</a>
+      href="overmij"><span class="link-text">Overmij</span></a>
     </li>
     <li class="nav-item">
       <a class="nav-link <?php if($paginanaam=="opleiding") {echo"active";} ?>" 
-      href="opleiding">Opleiding</a>
+      href="opleiding"><span class="link-text">Opleiding</span></a>
     </li>
     <li class="nav-item">
       <a class="nav-link <?php if($paginanaam=="showcase") {echo"active";} ?>" 
-      href="showcase">Showcase</a>
+      href="showcase"><span class="link-text">Showcase</span></a>
     </li>
     <li class="nav-item">
       <a class="nav-link <?php if($paginanaam=="studiemonitor") {echo"active";} ?>" 
-      href="studiemonitor">Studiemonitor</a>
+      href="studiemonitor"><span class="link-text">Studiemonitor</span></a>
     </li>
     <li class="nav-item">
       <a class="nav-link <?php if($paginanaam=="cv") {echo"active";} ?>" 
-      href="cv">CV</a>
+      href="cv"><span class="link-text">CV</span></a>
     </li>
     <li class="nav-item">
       <a class="nav-link <?php if($paginanaam=="contact") {echo"active";} ?>" 
-      href="contact">Contact</a>
+      href="contact"><span class="link-text">Contact</span></a>
     </li>
   </ul>
-    </div>
-    <span class="navbar-text large text-truncate mt-1 w-50 text-right order-1 order-md-last">
-      Lucas de Ruijter.nl
-    </span>
 </nav>
